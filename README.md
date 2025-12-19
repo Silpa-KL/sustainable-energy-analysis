@@ -7,7 +7,7 @@ This repository contains my Power BI report **"Sustainable Energy Analysis"**.
 This dashboard analyzes sustainable energy metrics, such as:
 - Energy production and consumption trends
 - Renewable vs non-renewable energy share
-- Region-wise comparison and KPIs
+- Region-wise comparison and KPIs 
 - Insights into sustainability performance over time
 
 ## 🛠 Tools Used
