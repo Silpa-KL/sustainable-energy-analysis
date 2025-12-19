@@ -26,3 +26,7 @@ This project is part of my data analytics portfolio, showcasing:
 - Ability to build business-ready dashboards
 
 Feel free to download the `.pbix` file and explore the report.
+
+👩‍💻 Created by: SILPA K L   
+🔗 LinkedIn: www.linkedin.com/in/silpakl
+
