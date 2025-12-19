@@ -25,6 +25,10 @@ This project is part of my data analytics portfolio, showcasing:
 - Data visualization and storytelling
 - Ability to build business-ready dashboards
 
+## 🖼 Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
 Feel free to download the `.pbix` file and explore the report.
 
 👩‍💻 Created by: SILPA K L   
